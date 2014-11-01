@@ -1,0 +1,5 @@
+#Custom scrapers
+Here are some scrapers I made. Mostly in Python.
+
+##Law enforcement personnel
+A scraper to collect data on law enforcement personnel from the N.C. Department of Justice' [Uniform Crime Reporting Program](http://crimereporting.ncdoj.gov/Reports.aspx), [located here](http://crimereporting.ncdoj.gov/Reports.aspx).

@@ -7,6 +7,7 @@ A template to quickly build scrapers and store information. Accepts a csv filena
 **Usage (for testing):**
 
 `cp scraper-template.py your-new-scraper.py'
+
 `python your-new-scraper.py test_csv.csv http://google.com`
 
 ##Law enforcement personnel

@@ -16,3 +16,12 @@ A scraper to collect data on law enforcement personnel from the N.C. Department 
 **Usage:**
 
 `python lea-personnel.py`
+
+**NOTE:** I think the root directory for this information changed. Update TK.
+
+##Mental health beds
+A scraper to collect data on available mental health beds from the N.C. Division of Mental Health, Developmental Disabilities and Substance Abuse Services' [Bed availablility inventory](http://www.ncdmh.net/bedavailability/bedavailability.aspx).
+
+**Usage:**
+
+`python track_beds.py`

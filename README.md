@@ -25,3 +25,10 @@ A scraper to collect data on available mental health beds from the N.C. Division
 **Usage:**
 
 `python track_beds.py`
+
+##Commerce press releases
+A scraper to collect data from N.C. Department of [Commerce press releases](http://www.nccommerce.com/news/press-releases).
+
+**Usage:**
+
+`python commerce-releases.py`

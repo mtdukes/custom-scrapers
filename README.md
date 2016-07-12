@@ -10,14 +10,19 @@ A template to quickly build scrapers and store information. Accepts a csv filena
 
 `python your-new-scraper.py test_csv.csv http://google.com`
 
-##Law enforcement personnel
-A scraper to collect data on law enforcement personnel from the N.C. Department of Justice's [Uniform Crime Reporting Program](http://crimereporting.ncdoj.gov/Reports.aspx), [located here](http://crimereporting.ncdoj.gov/public/2013/LEPersonnel/LEPerPopRatAgyTrd.htm).
+##Law enforcement personnel (v2)
+A scraper to collect data on law enforcement personnel from the N.C. State Bureau of Investigation's [Uniform Crime Reporting Program](http://crimereporting.ncsbi.gov/), [located here](http://crimereporting.ncsbi.gov/public/2014/LEPersonnel/LEPerPopRatAgyTrd/leperpopratagytrd/leperpopratagytrd.htm).
 
 **Usage:**
 
-`python lea-personnel.py`
+`python lea-personnel_v2.py`
 
-**NOTE:** I think the root directory for this information changed. Update TK.
+##Law enforcement assaults
+A scraper to collect data on assaults on law enforcement from the N.C. State Bureau of Investigation's [Uniform Crime Reporting Program](http://crimereporting.ncsbi.gov/), [located here](http://crimereporting.ncsbi.gov/public/2014/LEOKillAsslt/LEOAssltWeaAgyTrd/leoassltweaagytrd/leoassltweaagytrd.htm).
+
+**Usage:**
+
+`python lea-assaults.py`
 
 ##Mental health beds
 A scraper to collect data on available mental health beds from the N.C. Division of Mental Health, Developmental Disabilities and Substance Abuse Services' [Bed availablility inventory](http://www.ncdmh.net/bedavailability/bedavailability.aspx).
